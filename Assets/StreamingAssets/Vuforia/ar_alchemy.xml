@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="green_flask_2" size="1.000000 1.829015" />
+    <ImageTarget name="white_flask" size="1.000000 1.768166" />
+    <ImageTarget name="red_flask" size="1.000000 2.077236" />
+    <ImageTarget name="green_flask" size="1.000000 2.689474" />
+    <ImageTarget name="blue_flask" size="1.000000 3.173913" />
+  </Tracking>
+</QCARConfig>
