@@ -16,3 +16,6 @@ MonoBehaviour:
   - Type: 0
     OtherType: 1
     MixedPrefab: {fileID: 919132149155446097, guid: 738e568d6afbbbb4d95d58ee51053a49, type: 3}
+  - Type: 2
+    OtherType: 3
+    MixedPrefab: {fileID: 919132149155446097, guid: dfbf33b4fae6a4d4da29d1c9f20603d0, type: 3}

@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 
 [CreateAssetMenu(fileName = "ResourcesData", menuName = "Data/Resources", order = 1)]
-public class Resources : ScriptableObject
+public class ResourcesData : ScriptableObject
 {
     [Serializable]
     public class ResourceDescription
